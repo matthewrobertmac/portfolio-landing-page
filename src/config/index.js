@@ -2,7 +2,7 @@ module.exports = {
   particles: {
     particles: {
       number: { value: 20 },
-      color: { value: ['#0be779', '#008a3e', '#a3ffce'] },
+      color: { value: ['rgb(0, 130, 200);', 'rgb(10, 60, 170);', 'rgb(0, 87, 183);'] },
       opacity: {
         value: 0.5,
         random: false,

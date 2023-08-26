@@ -14,7 +14,7 @@ const About = () => {
           <div className="about-text">
             <h2>Who am I?</h2>
             <p>
-              I'm Matt{' '}
+              I'm Alina{' '}
               <span role="img" aria-label="lightning">
                 😄
               </span>{' '}
@@ -23,15 +23,13 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a software engineer focusing on Front-End web and emerging
-              tech such as VR, AR and Blockchain.
+              I'm a language teacher and entrepreneur focusing on the Ukrainian, English, and Russian languages, and I design interactive language lessons and minigames.
             </p>
             <p>
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with UE5, JavaScript, React, Vue, Node,
-              Apollo and Gatsby.
+              You can find me writing poetry, teaching students Ukrainian, English, and Russian, translating texts, ghostwriting social media content, and designing games.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -43,11 +41,11 @@ const About = () => {
               <Typewriter
                 options={{
                   strings: [
-                    'learning new technologies',
-                    'exercising',
+                    'learning new languages',
+                    'helping others succeed',
                     'solving complex problems',
-                    'skiing',
-                    'fixing hard-to-fix bugs',
+                    'writing',
+                    'cultural exchange',
                     'trying new things',
                     'collaborating with others',
                   ],
