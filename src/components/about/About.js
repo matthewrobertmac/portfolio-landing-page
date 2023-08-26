@@ -56,9 +56,8 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              Since 2015 - I've spent my time seeking and learning new
-              technologies and forms of digital expression. This has led to me
-              working on some amazing world-class{' '}
+            Experienced language teacher with a passion for creative writing and a talent for translating poetry. Fluent in English, Ukrainian, and Russian, I have spent years honing my teaching skills and immersing myself in the beauty of language. My love for languages extends beyond teaching, as I thoroughly enjoy writing poems and translating them to and from various languages. Currently, I am expanding my linguistic repertoire by learning Spanish.
+{' '}
               <Link
                 className="textLink"
                 to="projects"
@@ -95,7 +94,7 @@ const About = () => {
                   d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"
                 ></path>
               </svg>
-              <p>Sydney, Australia</p>
+              <p>Alicante, Valencian Community, Spain</p>
             </div>
           </div>
         </Fade>

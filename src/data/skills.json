@@ -2,23 +2,23 @@
   "skills": [
     {
       "id": 0,
-      "skillName": "Design",
-      "amount": "95"
+      "skillName": "Ukrainian",
+      "amount": "100"
     },
     {
       "id": 1,
-      "skillName": "React.js",
-      "amount": "90"
+      "skillName": "Russian",
+      "amount": "100"
     },
     {
       "id": 2,
-      "skillName": "Photoshop",
-      "amount": "90"
+      "skillName": "English",
+      "amount": "95"
     },
-    { "id": 3, "skillName": "Javascript", "amount": "85" },
+    { "id": 3, "skillName": "Creative Writing", "amount": "100" },
     {
       "id": 4,
-      "skillName": "Node.js",
+      "skillName": "Spanish",
       "amount": "80"
     },
     {
